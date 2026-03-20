@@ -22,7 +22,7 @@ Since this project is open-source and not yet on the Chrome Web Store, follow th
 2.  **Open Chrome Extensions:** In your browser, go to `chrome://extensions/`.
 3.  **Enable Developer Mode:** Toggle the switch in the top-right corner to **ON**.
 4.  **Load the Extension:** Click the **Load unpacked** button.
-5.  **Select the Folder:** Navigate to and select the `LanguageMirror` folder (the one containing `manifest.json`).
+5.  **Select the Folder:** Navigate to and select the `language-mirror-main` folder (the one containing `manifest.json`).
 
 ---
 
