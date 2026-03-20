@@ -54,4 +54,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Built with ❤️ for language lovers everywhere.**
+**Built with ❤️ for language lovers everywhere. Like what you see? Support with a small donation @ https://www.chai4.me/languagemirror**
