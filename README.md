@@ -7,7 +7,7 @@
 ## ✨ Features
 
 * **Invisible Learning:** No more dedicated study sessions. Learn as you read the news, Reddit, or work blogs.
-* **Customizable Intensity:** Adjust the "Immersion Level" (5%, 10%, or 20% of words) via a simple slider.
+* **Customizable Intensity:** Adjust the "Immersion Level" (5%, 10%, 20% etc of words) via a simple slider.
 * **Instant Context:** Hover over any highlighted word to see the original English translation.
 * **Pronunciation:** Click the speaker icon in the tooltip to hear the correct AI-generated pronunciation.
 * **Vocabulary Vault:** Automatically tracks words you've interacted with for later review.
