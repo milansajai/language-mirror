@@ -18,7 +18,7 @@
 
 Since this project is open-source and not yet on the Chrome Web Store, follow these steps to install it:
 
-1.  **Download this Repository:** Click the green `<> Code` button and select **Download ZIP**, then unzip it on your computer.
+1.  **Download this Repository:** Click the green `<> Code` button and select **Download ZIP**, then unzip it (extract) on your computer.
 2.  **Open Chrome Extensions:** In your browser, go to `chrome://extensions/`.
 3.  **Enable Developer Mode:** Toggle the switch in the top-right corner to **ON**.
 4.  **Load the Extension:** Click the **Load unpacked** button.
